@@ -13,3 +13,5 @@ def main():
 # main() will be executed
 if __name__ == '__main__':
     main()
+
+    print("this is just an example")
